@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧠 Learning to solve problems creatively with tech.<br>💬 Ask me about Mac, React, Python, Health and life 😝 <br>🌱 I’m currently learning IOS Development<br>⚡ A day in my life = Tech 💻 + Gym dumbbell 💪 + Nature 🍁
+<p align="left">🧠 Learning to solve problems creatively with tech.<br>💬 Ask me about Mac, React, Python, Health and life 😝 <br>🌱 I’m currently learning IOS Development<br>⚡ A day in my life = Tech 💻 + Gym 💪 + Nature 🍁
 <img align="right" height="250" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"  /></p>
 
 ###
