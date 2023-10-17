@@ -6,17 +6,15 @@
 
 ###
 
-<p align="left">🧠 Learning to solve problems creatively with tech.<br>💬 Ask me about Mac, React, Python, Health and life 😝 <br>🌱 I’m currently learning IOS Development<br>⚡ A day in my life = Tech 💻 + Gym dumbbell 💪 + Nature 🍁</p>
+<p align="left">🧠 Learning to solve problems creatively with tech.<br>💬 Ask me about Mac, React, Python, Health and life 😝 <br>🌱 I’m currently learning IOS Development<br>⚡ A day in my life = Tech 💻 + Gym dumbbell 💪 + Nature 🍁
+<img align="right" height="250" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"  /></p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agam-singh-talwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agam-singh-talwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
-
+<br>
+<h4>Technologies I have worked with:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,12 +45,11 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif"  />
 
 ###
-
+<br>
+<h4>My Socials: </h4>  
 <div align="left">
   <a href="https://www.youtube.com/channel/UC-drOolZ6RGxyffefv_OaqA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -71,8 +68,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/agam-singh-talwar/agam-singh-talwar/output/snake.svg" alt="Snake animation" />
-
-###
